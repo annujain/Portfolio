@@ -1,0 +1,19 @@
+{
+    "name": "portfolio",
+    "version": "1.0.0",
+    "description": "This is a portfolio website about me.",
+    "main": "index.html",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pranaykgupta/Portfolio.git"
+    },
+    "author": "Pranay Kumar Gupta",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/pranaykgupta/Portfolio/issues"
+    },
+    "homepage": "https://github.com/pranaykgupta/Portfolio#readme"
+  }
